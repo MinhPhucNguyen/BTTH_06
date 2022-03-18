@@ -1,0 +1,13 @@
+.wrap{
+    height: 300px;
+    width: 50%;
+    border: 3px inset rgb(134, 116, 116);
+    text-align: center;
+}
+.table{
+    height: 70%;
+    width: 90%;
+    border: 1.5px groove violet;
+    margin-left: auto;
+    margin-right: auto;
+}
